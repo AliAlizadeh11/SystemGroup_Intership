@@ -1,0 +1,14 @@
+E:\System_Group\Hamkaran_System\Tasks\Task3\bin\Debug\net8.0\Task3.exe
+E:\System_Group\Hamkaran_System\Tasks\Task3\bin\Debug\net8.0\Task3.deps.json
+E:\System_Group\Hamkaran_System\Tasks\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+E:\System_Group\Hamkaran_System\Tasks\Task3\bin\Debug\net8.0\Task3.dll
+E:\System_Group\Hamkaran_System\Tasks\Task3\bin\Debug\net8.0\Task3.pdb
+E:\System_Group\Hamkaran_System\Tasks\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\System_Group\Hamkaran_System\Tasks\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+E:\System_Group\Hamkaran_System\Tasks\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+E:\System_Group\Hamkaran_System\Tasks\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+E:\System_Group\Hamkaran_System\Tasks\Task3\obj\Debug\net8.0\Task3.dll
+E:\System_Group\Hamkaran_System\Tasks\Task3\obj\Debug\net8.0\refint\Task3.dll
+E:\System_Group\Hamkaran_System\Tasks\Task3\obj\Debug\net8.0\Task3.pdb
+E:\System_Group\Hamkaran_System\Tasks\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+E:\System_Group\Hamkaran_System\Tasks\Task3\obj\Debug\net8.0\ref\Task3.dll
